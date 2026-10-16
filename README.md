@@ -16,7 +16,7 @@ The projects also uses React Router - it has the main page on which You draw a c
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Card-draw-simulator-app/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Card-draw-simulator-app/)
 
 ## My process
 
